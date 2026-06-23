@@ -36,4 +36,12 @@ Solutions from my POV.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vabxic/Leetcode/tree/master/0901-online-stock-span) |
+## String
+|  |
+| ------- |
+| [3271-hash-divided-string](https://github.com/vabxic/Leetcode/tree/master/3271-hash-divided-string) |
+## Simulation
+|  |
+| ------- |
+| [3271-hash-divided-string](https://github.com/vabxic/Leetcode/tree/master/3271-hash-divided-string) |
 <!---LeetCode Topics End-->
