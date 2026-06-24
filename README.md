@@ -7,6 +7,7 @@ Solutions from my POV.
 ## Array
 |  |
 | ------- |
+| [1535-find-the-winner-of-an-array-game](https://github.com/vabxic/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -43,5 +44,6 @@ Solutions from my POV.
 ## Simulation
 |  |
 | ------- |
+| [1535-find-the-winner-of-an-array-game](https://github.com/vabxic/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [3271-hash-divided-string](https://github.com/vabxic/Leetcode/tree/master/3271-hash-divided-string) |
 <!---LeetCode Topics End-->
