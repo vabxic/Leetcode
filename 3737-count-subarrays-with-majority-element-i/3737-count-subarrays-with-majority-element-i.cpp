@@ -1,20 +1,21 @@
 class Solution {
 public:
-    int countMajoritySubarrays(vector<int>& nums, int target) {
+    long long countMajoritySubarrays(vector<int>& nums, int target) {
         int n = nums.size();
-        int count = 0;
+        long long ans = 0;
 
         for (int i = 0; i < n; i++) {
-            unordered_map<int, int> mp;
+            int cnt = 0;
             for (int j = i; j < n; j++) {
-                mp[nums[j]]++;
+                if (nums[j] == target)
+                    cnt++;
 
-                if (mp[target] > (j - i + 1) / 2) {
-                    count++;
-                }
+                int len = j - i + 1;
+                if (cnt > len / 2)
+                    ans++;
             }
         }
 
-        return count;
+        return ans;
     }
 };
