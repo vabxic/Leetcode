@@ -48,6 +48,7 @@ Solutions from my POV.
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/vabxic/Leetcode/tree/master/1518-water-bottles) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/vabxic/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
 | [3271-hash-divided-string](https://github.com/vabxic/Leetcode/tree/master/3271-hash-divided-string) |
@@ -84,6 +85,7 @@ Solutions from my POV.
 ## Math
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/vabxic/Leetcode/tree/master/1518-water-bottles) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Enumeration
 |  |
