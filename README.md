@@ -85,6 +85,7 @@ Solutions from my POV.
 ## Math
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/vabxic/Leetcode/tree/master/0866-prime-palindrome) |
 | [1518-water-bottles](https://github.com/vabxic/Leetcode/tree/master/1518-water-bottles) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Enumeration
@@ -94,5 +95,6 @@ Solutions from my POV.
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/vabxic/Leetcode/tree/master/0866-prime-palindrome) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 <!---LeetCode Topics End-->
