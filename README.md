@@ -8,6 +8,7 @@ Solutions from my POV.
 |  |
 | ------- |
 | [1535-find-the-winner-of-an-array-game](https://github.com/vabxic/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
@@ -24,6 +25,7 @@ Solutions from my POV.
 ## Sorting
 |  |
 | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
@@ -103,6 +105,7 @@ Solutions from my POV.
 | [0013-roman-to-integer](https://github.com/vabxic/Leetcode/tree/master/0013-roman-to-integer) |
 | [0866-prime-palindrome](https://github.com/vabxic/Leetcode/tree/master/0866-prime-palindrome) |
 | [1518-water-bottles](https://github.com/vabxic/Leetcode/tree/master/1518-water-bottles) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Enumeration
 |  |
@@ -116,5 +119,10 @@ Solutions from my POV.
 ## Greedy
 |  |
 | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
