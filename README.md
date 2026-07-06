@@ -15,6 +15,7 @@ Solutions from my POV.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vabxic/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vabxic/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vabxic/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -39,6 +40,7 @@ Solutions from my POV.
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vabxic/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vabxic/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -150,6 +152,7 @@ Solutions from my POV.
 | [0646-maximum-length-of-pair-chain](https://github.com/vabxic/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vabxic/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Game Theory
 |  |
 | ------- |
