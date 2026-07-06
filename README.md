@@ -70,6 +70,7 @@ Solutions from my POV.
 | ------- |
 | [0012-integer-to-roman](https://github.com/vabxic/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vabxic/Leetcode/tree/master/0013-roman-to-integer) |
+| [0459-repeated-substring-pattern](https://github.com/vabxic/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vabxic/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vabxic/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -204,6 +205,7 @@ Solutions from my POV.
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/vabxic/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/vabxic/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
