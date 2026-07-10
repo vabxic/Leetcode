@@ -142,6 +142,7 @@ Solutions from my POV.
 | ------- |
 | [0012-integer-to-roman](https://github.com/vabxic/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vabxic/Leetcode/tree/master/0013-roman-to-integer) |
+| [0292-nim-game](https://github.com/vabxic/Leetcode/tree/master/0292-nim-game) |
 | [0812-largest-triangle-area](https://github.com/vabxic/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/vabxic/Leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/vabxic/Leetcode/tree/master/0866-prime-palindrome) |
@@ -176,6 +177,7 @@ Solutions from my POV.
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/vabxic/Leetcode/tree/master/0292-nim-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Sliding Window
 |  |
@@ -255,4 +257,8 @@ Solutions from my POV.
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/vabxic/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vabxic/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/vabxic/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
