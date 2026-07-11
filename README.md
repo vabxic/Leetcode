@@ -80,6 +80,7 @@ Solutions from my POV.
 | ------- |
 | [0012-integer-to-roman](https://github.com/vabxic/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vabxic/Leetcode/tree/master/0013-roman-to-integer) |
+| [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/vabxic/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vabxic/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -198,6 +199,7 @@ Solutions from my POV.
 | [0145-binary-tree-postorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/vabxic/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vabxic/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -209,6 +211,7 @@ Solutions from my POV.
 | [0144-binary-tree-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vabxic/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -230,6 +233,7 @@ Solutions from my POV.
 | [0145-binary-tree-postorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/vabxic/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vabxic/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
@@ -264,4 +268,8 @@ Solutions from my POV.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vabxic/Leetcode/tree/master/0292-nim-game) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
