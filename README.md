@@ -15,6 +15,7 @@ Solutions from my POV.
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vabxic/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1288-remove-covered-intervals](https://github.com/vabxic/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/vabxic/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/vabxic/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -48,6 +49,7 @@ Solutions from my POV.
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vabxic/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1288-remove-covered-intervals](https://github.com/vabxic/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/vabxic/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -104,6 +106,7 @@ Solutions from my POV.
 | [0013-roman-to-integer](https://github.com/vabxic/Leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1331-rank-transform-of-an-array](https://github.com/vabxic/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vabxic/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
