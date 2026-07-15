@@ -8,7 +8,6 @@ public:
 
         for (int i = 0; i < n; ++i) {
             double val = (double)nums[i][1] / (double)nums[i][0];
-            cout << val << " ";
             if (mp.find(val) != mp.end()) {
                 count += mp[val];
             }
