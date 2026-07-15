@@ -159,6 +159,7 @@ Solutions from my POV.
 | [0858-mirror-reflection](https://github.com/vabxic/Leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/vabxic/Leetcode/tree/master/0866-prime-palindrome) |
 | [1175-prime-arrangements](https://github.com/vabxic/Leetcode/tree/master/1175-prime-arrangements) |
+| [1492-the-kth-factor-of-n](https://github.com/vabxic/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1518-water-bottles](https://github.com/vabxic/Leetcode/tree/master/1518-water-bottles) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2544-alternating-digit-sum](https://github.com/vabxic/Leetcode/tree/master/2544-alternating-digit-sum) |
@@ -177,6 +178,7 @@ Solutions from my POV.
 | ------- |
 | [0858-mirror-reflection](https://github.com/vabxic/Leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/vabxic/Leetcode/tree/master/0866-prime-palindrome) |
+| [1492-the-kth-factor-of-n](https://github.com/vabxic/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Greedy
 |  |
