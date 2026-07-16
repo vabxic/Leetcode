@@ -33,11 +33,13 @@ Solutions from my POV.
 | [3527-find-the-most-common-response](https://github.com/vabxic/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vabxic/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/vabxic/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ Solutions from my POV.
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vabxic/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/vabxic/Leetcode/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -104,6 +107,7 @@ Solutions from my POV.
 | [1535-find-the-winner-of-an-array-game](https://github.com/vabxic/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
 | [3271-hash-divided-string](https://github.com/vabxic/Leetcode/tree/master/3271-hash-divided-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +179,7 @@ Solutions from my POV.
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/vabxic/Leetcode/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vabxic/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vabxic/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -191,6 +196,7 @@ Solutions from my POV.
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/vabxic/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vabxic/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
