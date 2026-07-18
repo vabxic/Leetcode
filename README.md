@@ -25,6 +25,7 @@ Solutions from my POV.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/vabxic/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vabxic/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vabxic/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/vabxic/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -187,6 +188,7 @@ Solutions from my POV.
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/vabxic/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vabxic/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/vabxic/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2544-alternating-digit-sum](https://github.com/vabxic/Leetcode/tree/master/2544-alternating-digit-sum) |
@@ -209,6 +211,7 @@ Solutions from my POV.
 | [0866-prime-palindrome](https://github.com/vabxic/Leetcode/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/vabxic/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/vabxic/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vabxic/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/vabxic/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
