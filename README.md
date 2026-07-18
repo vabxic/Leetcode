@@ -252,6 +252,7 @@ Solutions from my POV.
 | [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vabxic/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vabxic/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -266,6 +267,7 @@ Solutions from my POV.
 | [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vabxic/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -273,6 +275,7 @@ Solutions from my POV.
 | [0102-binary-tree-level-order-traversal](https://github.com/vabxic/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vabxic/Leetcode/tree/master/0112-path-sum) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,6 +292,7 @@ Solutions from my POV.
 | [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vabxic/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vabxic/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Bit Manipulation
 |  |
