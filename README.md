@@ -15,6 +15,7 @@ Solutions from my POV.
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vabxic/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1094-car-pooling](https://github.com/vabxic/Leetcode/tree/master/1094-car-pooling) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1260-shift-2d-grid](https://github.com/vabxic/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/vabxic/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vabxic/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/vabxic/Leetcode/tree/master/1390-four-divisors) |
@@ -116,6 +117,7 @@ Solutions from my POV.
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/vabxic/Leetcode/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/vabxic/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/vabxic/Leetcode/tree/master/1518-water-bottles) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/vabxic/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
@@ -337,4 +339,8 @@ Solutions from my POV.
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/vabxic/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
