@@ -29,6 +29,7 @@ Solutions from my POV.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vabxic/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vabxic/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/vabxic/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2079-watering-plants](https://github.com/vabxic/Leetcode/tree/master/2079-watering-plants) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vabxic/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -123,6 +124,7 @@ Solutions from my POV.
 | [1260-shift-2d-grid](https://github.com/vabxic/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/vabxic/Leetcode/tree/master/1518-water-bottles) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/vabxic/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
+| [2079-watering-plants](https://github.com/vabxic/Leetcode/tree/master/2079-watering-plants) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
 | [3271-hash-divided-string](https://github.com/vabxic/Leetcode/tree/master/3271-hash-divided-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
