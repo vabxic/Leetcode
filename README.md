@@ -73,6 +73,7 @@ Solutions from my POV.
 | [1169-invalid-transactions](https://github.com/vabxic/Leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1288-remove-covered-intervals](https://github.com/vabxic/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/vabxic/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/vabxic/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -295,6 +296,7 @@ Solutions from my POV.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/vabxic/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/vabxic/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -317,6 +319,7 @@ Solutions from my POV.
 | [0662-maximum-width-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/vabxic/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -355,6 +358,7 @@ Solutions from my POV.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/vabxic/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/vabxic/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Bit Manipulation
@@ -418,4 +422,5 @@ Solutions from my POV.
 | [0501-find-mode-in-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/vabxic/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
