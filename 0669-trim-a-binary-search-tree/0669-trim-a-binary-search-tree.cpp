@@ -1,5 +1,5 @@
-/* approach 1
-    self made
+// approach 1
+//  self made
 
 class Solution {
 public:
@@ -52,10 +52,9 @@ public:
         return inorder(root, low, high);
     }
 };
-*/
 
-// approach 2 
-// optimal
+/* approach 2 
+ optimal
 class Solution {
 public:
     TreeNode* trimBST(TreeNode* root, int low, int high) {
@@ -74,3 +73,4 @@ public:
         return root;
     }
 };
+*/
