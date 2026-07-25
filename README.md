@@ -85,6 +85,7 @@ Solutions from my POV.
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vabxic/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3102-minimize-manhattan-distances](https://github.com/vabxic/Leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/vabxic/Leetcode/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/vabxic/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -226,6 +227,7 @@ Solutions from my POV.
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3102-minimize-manhattan-distances](https://github.com/vabxic/Leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/vabxic/Leetcode/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/vabxic/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vabxic/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vabxic/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
