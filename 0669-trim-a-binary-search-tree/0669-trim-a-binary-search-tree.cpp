@@ -1,6 +1,12 @@
 // approach 1
 //  self made
 
+static const auto fast_io = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    return 0;
+}();
+
 class Solution {
 public:
     TreeNode* InorderSuccessor(TreeNode* root) {
