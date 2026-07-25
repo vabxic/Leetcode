@@ -59,7 +59,7 @@ public:
     }
 };
 
-/* approach 2 
+/* approach 2
  optimal
 class Solution {
 public:
