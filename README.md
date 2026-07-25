@@ -292,6 +292,7 @@ Solutions from my POV.
 | [0144-binary-tree-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/vabxic/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/vabxic/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/vabxic/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vabxic/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -323,6 +324,7 @@ Solutions from my POV.
 | [0129-sum-root-to-leaf-numbers](https://github.com/vabxic/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/vabxic/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vabxic/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -345,6 +347,7 @@ Solutions from my POV.
 | [0112-path-sum](https://github.com/vabxic/Leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vabxic/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vabxic/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/vabxic/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -368,6 +371,7 @@ Solutions from my POV.
 | [0144-binary-tree-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/vabxic/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/vabxic/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/vabxic/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vabxic/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
