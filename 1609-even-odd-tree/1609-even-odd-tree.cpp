@@ -1,3 +1,48 @@
+/*
+o(1) space
+
+class Solution {
+public:
+    bool isEvenOddTree(TreeNode* root) {
+        queue<TreeNode*> q;
+        q.push(root);
+
+        int level = 0;
+
+        while (!q.empty()) {
+            int size = q.size();
+            int prev = (level % 2 == 0) ? INT_MIN : INT_MAX;
+
+            while (size--) {
+                TreeNode* curr = q.front();
+                q.pop();
+
+                if ((level & 1) == 0) { // Even level
+                    if ((curr->val & 1) == 0 || curr->val <= prev)
+                        return false;
+                } else { // Odd level
+                    if ((curr->val & 1) == 1 || curr->val >= prev)
+                        return false;
+                }
+
+                prev = curr->val;
+
+                if (curr->left)
+                    q.push(curr->left);
+                if (curr->right)
+                    q.push(curr->right);
+            }
+
+            level++;
+        }
+
+        return true;
+    }
+};
+*/
+
+
+//o(n) space
 class Solution {
 public:
     bool levelOrder(TreeNode* root) {
