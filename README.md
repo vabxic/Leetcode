@@ -13,6 +13,7 @@ Solutions from my POV.
 | [0200-number-of-islands](https://github.com/vabxic/Leetcode/tree/master/0200-number-of-islands) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vabxic/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vabxic/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [0812-largest-triangle-area](https://github.com/vabxic/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/vabxic/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vabxic/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -369,6 +370,7 @@ Solutions from my POV.
 | [0572-subtree-of-another-tree](https://github.com/vabxic/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vabxic/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -396,6 +398,7 @@ Solutions from my POV.
 | [0513-find-bottom-left-tree-value](https://github.com/vabxic/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vabxic/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -496,6 +499,7 @@ Solutions from my POV.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vabxic/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [1260-shift-2d-grid](https://github.com/vabxic/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Ordered Set
 |  |
@@ -535,4 +539,5 @@ Solutions from my POV.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vabxic/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
