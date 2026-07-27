@@ -109,6 +109,7 @@ Solutions from my POV.
 | [0173-binary-search-tree-iterator](https://github.com/vabxic/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/vabxic/Leetcode/tree/master/0901-online-stock-span) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Solutions from my POV.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1169-invalid-transactions](https://github.com/vabxic/Leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/vabxic/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vabxic/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -325,6 +327,7 @@ Solutions from my POV.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vabxic/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vabxic/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vabxic/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1609-even-odd-tree](https://github.com/vabxic/Leetcode/tree/master/1609-even-odd-tree) |
@@ -363,6 +366,7 @@ Solutions from my POV.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vabxic/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vabxic/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vabxic/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -387,6 +391,7 @@ Solutions from my POV.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1609-even-odd-tree](https://github.com/vabxic/Leetcode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -434,6 +439,7 @@ Solutions from my POV.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vabxic/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vabxic/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vabxic/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1609-even-odd-tree](https://github.com/vabxic/Leetcode/tree/master/1609-even-odd-tree) |
