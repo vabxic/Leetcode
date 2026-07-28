@@ -16,6 +16,7 @@ Solutions from my POV.
 | [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [0812-largest-triangle-area](https://github.com/vabxic/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/vabxic/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0994-rotting-oranges](https://github.com/vabxic/Leetcode/tree/master/0994-rotting-oranges) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vabxic/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/vabxic/Leetcode/tree/master/1094-car-pooling) |
@@ -405,6 +406,7 @@ Solutions from my POV.
 | [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/vabxic/Leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1609-even-odd-tree](https://github.com/vabxic/Leetcode/tree/master/1609-even-odd-tree) |
@@ -504,6 +506,7 @@ Solutions from my POV.
 | ------- |
 | [0200-number-of-islands](https://github.com/vabxic/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/vabxic/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/vabxic/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Ordered Set
 |  |
