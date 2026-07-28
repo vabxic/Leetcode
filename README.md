@@ -359,6 +359,7 @@ Solutions from my POV.
 | [0145-binary-tree-postorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vabxic/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vabxic/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/vabxic/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vabxic/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -397,6 +398,7 @@ Solutions from my POV.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vabxic/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vabxic/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vabxic/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/vabxic/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/vabxic/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -556,5 +558,10 @@ Solutions from my POV.
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/vabxic/Leetcode/tree/master/0207-course-schedule) |
 | [0841-keys-and-rooms](https://github.com/vabxic/Leetcode/tree/master/0841-keys-and-rooms) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/vabxic/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
