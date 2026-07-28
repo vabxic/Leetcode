@@ -46,7 +46,7 @@ public:
         vector<bool> vis(n, false);
         vector<bool> recPath(n, false);
 
-        // Detect cycle
+        // is cycle ?
         for (int i = 0; i < n; i++) {
             if (!vis[i]) {
                 if (isCycleDirDFS(i, vis, recPath, edges))
@@ -54,7 +54,7 @@ public:
             }
         }
 
-        // Reset visited for Topological Sort
+        // Reset visited for topo Sort
         fill(vis.begin(), vis.end(), false);
 
         stack<int> s;
