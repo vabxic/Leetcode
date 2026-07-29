@@ -342,6 +342,7 @@ Solutions from my POV.
 | [0669-trim-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0951-flip-equivalent-binary-trees](https://github.com/vabxic/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vabxic/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -392,6 +393,7 @@ Solutions from my POV.
 | [0743-network-delay-time](https://github.com/vabxic/Leetcode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/vabxic/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0951-flip-equivalent-binary-trees](https://github.com/vabxic/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vabxic/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -477,6 +479,7 @@ Solutions from my POV.
 | [0669-trim-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0951-flip-equivalent-binary-trees](https://github.com/vabxic/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vabxic/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
