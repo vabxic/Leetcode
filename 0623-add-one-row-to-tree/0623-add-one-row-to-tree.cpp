@@ -43,7 +43,7 @@ public:
     }
 
     TreeNode* addOneRow(TreeNode* root, int val, int depth) {
-        if (depth == 1) {
+        if (depth == 1) { //edge case
             TreeNode* newRoot = new TreeNode(val);
             newRoot->left = root;
             return newRoot;
