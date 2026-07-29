@@ -223,6 +223,7 @@ Solutions from my POV.
 |  |
 | ------- |
 | [0630-course-schedule-iii](https://github.com/vabxic/Leetcode/tree/master/0630-course-schedule-iii) |
+| [0743-network-delay-time](https://github.com/vabxic/Leetcode/tree/master/0743-network-delay-time) |
 | [1094-car-pooling](https://github.com/vabxic/Leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
@@ -386,6 +387,7 @@ Solutions from my POV.
 | [0669-trim-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vabxic/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/vabxic/Leetcode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/vabxic/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vabxic/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -419,6 +421,7 @@ Solutions from my POV.
 | [0662-maximum-width-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vabxic/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/vabxic/Leetcode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/vabxic/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -574,10 +577,15 @@ Solutions from my POV.
 | ------- |
 | [0207-course-schedule](https://github.com/vabxic/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vabxic/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/vabxic/Leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/vabxic/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vabxic/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vabxic/Leetcode/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/vabxic/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
