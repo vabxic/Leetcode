@@ -178,6 +178,7 @@ Solutions from my POV.
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/vabxic/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vabxic/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/vabxic/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/vabxic/Leetcode/tree/master/3164-find-the-number-of-good-pairs-ii) |
@@ -352,6 +353,7 @@ Solutions from my POV.
 | [1325-delete-leaves-with-a-given-value](https://github.com/vabxic/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1609-even-odd-tree](https://github.com/vabxic/Leetcode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vabxic/Leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vabxic/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -399,6 +401,7 @@ Solutions from my POV.
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vabxic/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vabxic/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vabxic/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -434,6 +437,7 @@ Solutions from my POV.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1609-even-odd-tree](https://github.com/vabxic/Leetcode/tree/master/1609-even-odd-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vabxic/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -489,6 +493,7 @@ Solutions from my POV.
 | [1325-delete-leaves-with-a-given-value](https://github.com/vabxic/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1609-even-odd-tree](https://github.com/vabxic/Leetcode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vabxic/Leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vabxic/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Bit Manipulation
