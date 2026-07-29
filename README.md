@@ -55,6 +55,7 @@ Solutions from my POV.
 | [3527-find-the-most-common-response](https://github.com/vabxic/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vabxic/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@ Solutions from my POV.
 | [0633-sum-of-square-numbers](https://github.com/vabxic/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Solutions from my POV.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vabxic/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vabxic/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -196,6 +199,7 @@ Solutions from my POV.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vabxic/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Segment Tree
 |  |
 | ------- |
@@ -608,4 +612,8 @@ Solutions from my POV.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/vabxic/Leetcode/tree/master/0743-network-delay-time) |
+## Quickselect
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->
