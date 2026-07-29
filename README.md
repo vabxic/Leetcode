@@ -106,6 +106,7 @@ Solutions from my POV.
 | [0144-binary-tree-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/vabxic/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0901-online-stock-span](https://github.com/vabxic/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vabxic/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -135,6 +136,7 @@ Solutions from my POV.
 | [0013-roman-to-integer](https://github.com/vabxic/Leetcode/tree/master/0013-roman-to-integer) |
 | [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/vabxic/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/vabxic/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vabxic/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -324,6 +326,7 @@ Solutions from my POV.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/vabxic/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/vabxic/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/vabxic/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -454,6 +457,7 @@ Solutions from my POV.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/vabxic/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/vabxic/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
