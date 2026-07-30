@@ -32,6 +32,7 @@ Solutions from my POV.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/vabxic/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vabxic/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vabxic/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/vabxic/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
@@ -600,6 +601,7 @@ Solutions from my POV.
 | [0200-number-of-islands](https://github.com/vabxic/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vabxic/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vabxic/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Counting Sort
 |  |
 | ------- |
@@ -612,6 +614,7 @@ Solutions from my POV.
 | [0547-number-of-provinces](https://github.com/vabxic/Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/vabxic/Leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/vabxic/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vabxic/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -625,4 +628,8 @@ Solutions from my POV.
 |  |
 | ------- |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vabxic/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
