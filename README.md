@@ -118,6 +118,7 @@ Solutions from my POV.
 | [0145-binary-tree-postorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/vabxic/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0901-online-stock-span](https://github.com/vabxic/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vabxic/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -358,6 +359,7 @@ Solutions from my POV.
 | [0538-convert-bst-to-greater-tree](https://github.com/vabxic/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vabxic/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/vabxic/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -410,6 +412,7 @@ Solutions from my POV.
 | [0543-diameter-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vabxic/Leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/vabxic/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/vabxic/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
