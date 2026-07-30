@@ -48,6 +48,7 @@ Solutions from my POV.
 | [2183-count-array-pairs-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vabxic/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/vabxic/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/vabxic/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
@@ -67,6 +68,7 @@ Solutions from my POV.
 | [0633-sum-of-square-numbers](https://github.com/vabxic/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/vabxic/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2105-watering-plants-ii](https://github.com/vabxic/Leetcode/tree/master/2105-watering-plants-ii) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/vabxic/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/vabxic/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -77,6 +79,7 @@ Solutions from my POV.
 | [0633-sum-of-square-numbers](https://github.com/vabxic/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1631-path-with-minimum-effort](https://github.com/vabxic/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/vabxic/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Sorting
@@ -98,6 +101,7 @@ Solutions from my POV.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vabxic/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/vabxic/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2592-maximize-greatness-of-an-array](https://github.com/vabxic/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
