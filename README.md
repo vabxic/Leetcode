@@ -18,6 +18,7 @@ Solutions from my POV.
 | [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vabxic/Leetcode/tree/master/0733-flood-fill) |
 | [0812-largest-triangle-area](https://github.com/vabxic/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/vabxic/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/vabxic/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vabxic/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/vabxic/Leetcode/tree/master/0994-rotting-oranges) |
@@ -265,6 +266,7 @@ Solutions from my POV.
 | [0812-largest-triangle-area](https://github.com/vabxic/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/vabxic/Leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/vabxic/Leetcode/tree/master/0866-prime-palindrome) |
+| [0877-stone-game](https://github.com/vabxic/Leetcode/tree/master/0877-stone-game) |
 | [1175-prime-arrangements](https://github.com/vabxic/Leetcode/tree/master/1175-prime-arrangements) |
 | [1390-four-divisors](https://github.com/vabxic/Leetcode/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/vabxic/Leetcode/tree/master/1492-the-kth-factor-of-n) |
@@ -324,6 +326,7 @@ Solutions from my POV.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vabxic/Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/vabxic/Leetcode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Sliding Window
 |  |
@@ -586,6 +589,7 @@ Solutions from my POV.
 | [0152-maximum-product-subarray](https://github.com/vabxic/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vabxic/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vabxic/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/vabxic/Leetcode/tree/master/0877-stone-game) |
 ## Brainteaser
 |  |
 | ------- |
