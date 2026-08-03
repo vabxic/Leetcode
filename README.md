@@ -158,6 +158,7 @@ Solutions from my POV.
 | ------- |
 | [0012-integer-to-roman](https://github.com/vabxic/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vabxic/Leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/vabxic/Leetcode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -595,6 +596,7 @@ Solutions from my POV.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vabxic/Leetcode/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/vabxic/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/vabxic/Leetcode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vabxic/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -607,6 +609,7 @@ Solutions from my POV.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vabxic/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vabxic/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vabxic/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vabxic/Leetcode/tree/master/0046-permutations) |
@@ -724,4 +727,8 @@ Solutions from my POV.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vabxic/Leetcode/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vabxic/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
