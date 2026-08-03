@@ -7,6 +7,7 @@ Solutions from my POV.
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vabxic/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/vabxic/Leetcode/tree/master/0130-surrounded-regions) |
@@ -562,6 +563,7 @@ Solutions from my POV.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vabxic/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/vabxic/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## String Matching
 |  |
@@ -599,6 +601,7 @@ Solutions from my POV.
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vabxic/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/vabxic/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Matrix
