@@ -10,6 +10,7 @@ Solutions from my POV.
 | [0039-combination-sum](https://github.com/vabxic/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vabxic/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vabxic/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/vabxic/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vabxic/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vabxic/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -619,6 +620,7 @@ Solutions from my POV.
 | [0039-combination-sum](https://github.com/vabxic/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vabxic/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vabxic/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/vabxic/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/vabxic/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vabxic/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vabxic/Leetcode/tree/master/0079-word-search) |
@@ -739,4 +741,8 @@ Solutions from my POV.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vabxic/Leetcode/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/vabxic/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
