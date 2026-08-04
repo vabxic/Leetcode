@@ -7,7 +7,7 @@ public:
         size_t n = nums.size();
 
         if (curr.size() >= 2) {
-            st.insert(curr);
+            st.insert(curr);  //dont return after this
         }
         for (int i = idx; i < n; ++i) {
 
