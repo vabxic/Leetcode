@@ -11,6 +11,7 @@ Solutions from my POV.
 | [0040-combination-sum-ii](https://github.com/vabxic/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vabxic/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vabxic/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vabxic/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vabxic/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/vabxic/Leetcode/tree/master/0130-surrounded-regions) |
@@ -160,6 +161,7 @@ Solutions from my POV.
 | [0013-roman-to-integer](https://github.com/vabxic/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vabxic/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vabxic/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/vabxic/Leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -410,6 +412,7 @@ Solutions from my POV.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vabxic/Leetcode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vabxic/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vabxic/Leetcode/tree/master/0101-symmetric-tree) |
@@ -618,6 +621,7 @@ Solutions from my POV.
 | [0046-permutations](https://github.com/vabxic/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/vabxic/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vabxic/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vabxic/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/vabxic/Leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/vabxic/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -625,6 +629,7 @@ Solutions from my POV.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vabxic/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/vabxic/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vabxic/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
