@@ -222,6 +222,7 @@ Solutions from my POV.
 | [0491-non-decreasing-subsequences](https://github.com/vabxic/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/vabxic/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/vabxic/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vabxic/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vabxic/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1169-invalid-transactions](https://github.com/vabxic/Leetcode/tree/master/1169-invalid-transactions) |
@@ -422,6 +423,7 @@ Solutions from my POV.
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vabxic/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/vabxic/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -489,6 +491,7 @@ Solutions from my POV.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vabxic/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/vabxic/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vabxic/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/vabxic/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vabxic/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -536,6 +539,7 @@ Solutions from my POV.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vabxic/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/vabxic/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vabxic/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vabxic/Leetcode/tree/master/0994-rotting-oranges) |
@@ -597,6 +601,7 @@ Solutions from my POV.
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vabxic/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/vabxic/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -814,6 +819,7 @@ Solutions from my POV.
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vabxic/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0508-most-frequent-subtree-sum](https://github.com/vabxic/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vabxic/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -826,4 +832,12 @@ Solutions from my POV.
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vabxic/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Binary Lifting
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vabxic/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vabxic/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
