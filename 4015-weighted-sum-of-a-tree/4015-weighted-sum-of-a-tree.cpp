@@ -42,11 +42,8 @@ public:
     int height(map<int, vector<int>>& mp) { return mp.rbegin()->first; }
 
     long long weightedSum(vector<int>& parent, vector<int>& nums) {
-
         vector<vector<int>> tree = buildTree(parent);
-
         map<int, vector<int>> mp = bfs(tree);
-
         int h = height(mp);
 
         long long ans = 0;
