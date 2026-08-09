@@ -155,6 +155,7 @@ Solutions from my POV.
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vabxic/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/vabxic/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vabxic/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/vabxic/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0901-online-stock-span](https://github.com/vabxic/Leetcode/tree/master/0901-online-stock-span) |
@@ -178,6 +179,7 @@ Solutions from my POV.
 | [0022-generate-parentheses](https://github.com/vabxic/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/vabxic/Leetcode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/vabxic/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vabxic/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/vabxic/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -465,6 +467,7 @@ Solutions from my POV.
 | [0200-number-of-islands](https://github.com/vabxic/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vabxic/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vabxic/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vabxic/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vabxic/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -820,6 +823,7 @@ Solutions from my POV.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vabxic/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vabxic/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/vabxic/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/vabxic/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## DP on Trees
