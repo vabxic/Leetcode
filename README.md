@@ -437,6 +437,7 @@ Solutions from my POV.
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/vabxic/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/vabxic/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vabxic/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vabxic/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -510,6 +511,7 @@ Solutions from my POV.
 | [1192-critical-connections-in-a-network](https://github.com/vabxic/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/vabxic/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1302-deepest-leaves-sum](https://github.com/vabxic/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vabxic/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vabxic/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -559,6 +561,7 @@ Solutions from my POV.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/vabxic/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1302-deepest-leaves-sum](https://github.com/vabxic/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/vabxic/Leetcode/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/vabxic/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -626,6 +629,7 @@ Solutions from my POV.
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/vabxic/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/vabxic/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vabxic/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vabxic/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
