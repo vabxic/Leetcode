@@ -50,6 +50,7 @@ Solutions from my POV.
 | [1584-min-cost-to-connect-all-points](https://github.com/vabxic/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vabxic/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/vabxic/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vabxic/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vabxic/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/vabxic/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
@@ -123,6 +124,7 @@ Solutions from my POV.
 | [1331-rank-transform-of-an-array](https://github.com/vabxic/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vabxic/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vabxic/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/vabxic/Leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
@@ -366,6 +368,7 @@ Solutions from my POV.
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vabxic/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vabxic/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vabxic/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/vabxic/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vabxic/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
