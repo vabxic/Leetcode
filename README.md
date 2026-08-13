@@ -29,6 +29,7 @@ Solutions from my POV.
 | [0720-longest-word-in-dictionary](https://github.com/vabxic/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/vabxic/Leetcode/tree/master/0733-flood-fill) |
 | [0812-largest-triangle-area](https://github.com/vabxic/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/vabxic/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/vabxic/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/vabxic/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vabxic/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -300,6 +301,7 @@ Solutions from my POV.
 | [0630-course-schedule-iii](https://github.com/vabxic/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0743-network-delay-time](https://github.com/vabxic/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vabxic/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/vabxic/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1094-car-pooling](https://github.com/vabxic/Leetcode/tree/master/1094-car-pooling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vabxic/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -364,6 +366,7 @@ Solutions from my POV.
 | ------- |
 | [0630-course-schedule-iii](https://github.com/vabxic/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vabxic/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/vabxic/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vabxic/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vabxic/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vabxic/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -694,6 +697,7 @@ Solutions from my POV.
 | [0509-fibonacci-number](https://github.com/vabxic/Leetcode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vabxic/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vabxic/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/vabxic/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/vabxic/Leetcode/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vabxic/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Brainteaser
