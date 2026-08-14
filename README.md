@@ -68,6 +68,7 @@ Solutions from my POV.
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/vabxic/Leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vabxic/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vabxic/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/vabxic/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/vabxic/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -134,6 +135,7 @@ Solutions from my POV.
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/vabxic/Leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vabxic/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vabxic/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/vabxic/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2592-maximize-greatness-of-an-array](https://github.com/vabxic/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
@@ -256,6 +258,7 @@ Solutions from my POV.
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/vabxic/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vabxic/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vabxic/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vabxic/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -318,6 +321,7 @@ Solutions from my POV.
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vabxic/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/vabxic/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vabxic/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
 ## Math
 |  |
