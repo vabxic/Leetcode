@@ -83,6 +83,7 @@ Solutions from my POV.
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vabxic/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/vabxic/Leetcode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -262,6 +263,7 @@ Solutions from my POV.
 | [3625-count-number-of-trapezoids-ii](https://github.com/vabxic/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vabxic/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/vabxic/Leetcode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
