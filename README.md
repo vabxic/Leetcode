@@ -204,6 +204,7 @@ Solutions from my POV.
 | [1169-invalid-transactions](https://github.com/vabxic/Leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vabxic/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vabxic/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/vabxic/Leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vabxic/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
@@ -249,6 +250,7 @@ Solutions from my POV.
 | [1331-rank-transform-of-an-array](https://github.com/vabxic/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vabxic/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vabxic/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vabxic/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/vabxic/Leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/vabxic/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -288,6 +290,7 @@ Solutions from my POV.
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/vabxic/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/vabxic/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vabxic/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/vabxic/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/vabxic/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
