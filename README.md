@@ -205,6 +205,7 @@ Solutions from my POV.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vabxic/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vabxic/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vabxic/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/vabxic/Leetcode/tree/master/3110-score-of-a-string) |
 | [3271-hash-divided-string](https://github.com/vabxic/Leetcode/tree/master/3271-hash-divided-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vabxic/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -253,6 +254,7 @@ Solutions from my POV.
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vabxic/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vabxic/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vabxic/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/vabxic/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/vabxic/Leetcode/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3527-find-the-most-common-response](https://github.com/vabxic/Leetcode/tree/master/3527-find-the-most-common-response) |
@@ -393,6 +395,7 @@ Solutions from my POV.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vabxic/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vabxic/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vabxic/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vabxic/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
 |  |
 | ------- |
