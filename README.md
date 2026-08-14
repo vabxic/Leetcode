@@ -168,6 +168,7 @@ Solutions from my POV.
 | [0211-design-add-and-search-words-data-structure](https://github.com/vabxic/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/vabxic/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vabxic/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/vabxic/Leetcode/tree/master/0901-online-stock-span) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vabxic/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Monotonic Stack
@@ -179,6 +180,7 @@ Solutions from my POV.
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vabxic/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/vabxic/Leetcode/tree/master/0901-online-stock-span) |
 ## String
 |  |
@@ -305,6 +307,7 @@ Solutions from my POV.
 |  |
 | ------- |
 | [0630-course-schedule-iii](https://github.com/vabxic/Leetcode/tree/master/0630-course-schedule-iii) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vabxic/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/vabxic/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vabxic/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/vabxic/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -450,6 +453,7 @@ Solutions from my POV.
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/vabxic/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vabxic/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vabxic/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -648,6 +652,7 @@ Solutions from my POV.
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/vabxic/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vabxic/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vabxic/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -776,6 +781,7 @@ Solutions from my POV.
 | [0538-convert-bst-to-greater-tree](https://github.com/vabxic/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vabxic/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vabxic/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
