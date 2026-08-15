@@ -1,21 +1,20 @@
 class Solution {
 public:
-    typedef long long ll;
-
     long long maximumMedianSum(vector<int>& nums) {
-        const size_t n = nums.size();
+        size_t n = nums.size();
 
-        sort(nums.rbegin(), nums.rend());
+        int left = 0;
+        int right = n - 1;
 
-        ll ans = 0;
+        long long sum = 0;
+        sort(nums.begin(), nums.end());
+        while(right > left){
 
-        for (int i = 1; i < n; i += 2) {
-            if (i >= 2 * (n / 3))
-                break;
-
-            ans += nums[i];
+            int val = right - 1;
+            sum += nums[val];
+            left++;
+            right -= 2;
         }
-
-        return ans;
+        return sum;
     }
 };
