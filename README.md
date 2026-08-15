@@ -81,6 +81,7 @@ Solutions from my POV.
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/vabxic/Leetcode/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3527-find-the-most-common-response](https://github.com/vabxic/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/vabxic/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vabxic/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vabxic/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -690,6 +691,7 @@ Solutions from my POV.
 | [0222-count-complete-tree-nodes](https://github.com/vabxic/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0491-non-decreasing-subsequences](https://github.com/vabxic/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/vabxic/Leetcode/tree/master/0784-letter-case-permutation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vabxic/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
 | ------- |
