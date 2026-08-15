@@ -81,6 +81,7 @@ Solutions from my POV.
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/vabxic/Leetcode/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3527-find-the-most-common-response](https://github.com/vabxic/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/vabxic/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/vabxic/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vabxic/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vabxic/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -147,6 +148,7 @@ Solutions from my POV.
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/vabxic/Leetcode/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vabxic/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vabxic/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/vabxic/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -355,6 +357,7 @@ Solutions from my POV.
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/vabxic/Leetcode/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vabxic/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/vabxic/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/vabxic/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vabxic/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vabxic/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -395,12 +398,14 @@ Solutions from my POV.
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vabxic/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2592-maximize-greatness-of-an-array](https://github.com/vabxic/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vabxic/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/vabxic/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vabxic/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/vabxic/Leetcode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/vabxic/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Sliding Window
 |  |
 | ------- |
