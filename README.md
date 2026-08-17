@@ -47,6 +47,7 @@ Solutions from my POV.
 | [1390-four-divisors](https://github.com/vabxic/Leetcode/tree/master/1390-four-divisors) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vabxic/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/vabxic/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/vabxic/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1584-min-cost-to-connect-all-points](https://github.com/vabxic/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -97,6 +98,7 @@ Solutions from my POV.
 | [0633-sum-of-square-numbers](https://github.com/vabxic/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/vabxic/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0905-sort-array-by-parity](https://github.com/vabxic/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/vabxic/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vabxic/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vabxic/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2105-watering-plants-ii](https://github.com/vabxic/Leetcode/tree/master/2105-watering-plants-ii) |
@@ -111,6 +113,7 @@ Solutions from my POV.
 | [0475-heaters](https://github.com/vabxic/Leetcode/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/vabxic/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/vabxic/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1631-path-with-minimum-effort](https://github.com/vabxic/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/vabxic/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -133,6 +136,7 @@ Solutions from my POV.
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vabxic/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/vabxic/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/vabxic/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vabxic/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vabxic/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vabxic/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -314,6 +318,7 @@ Solutions from my POV.
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/vabxic/Leetcode/tree/master/1094-car-pooling) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/vabxic/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vabxic/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vabxic/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
