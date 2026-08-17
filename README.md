@@ -28,6 +28,7 @@ Solutions from my POV.
 | [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/vabxic/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/vabxic/Leetcode/tree/master/0733-flood-fill) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/vabxic/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0812-largest-triangle-area](https://github.com/vabxic/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/vabxic/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/vabxic/Leetcode/tree/master/0877-stone-game) |
@@ -94,6 +95,7 @@ Solutions from my POV.
 | ------- |
 | [0475-heaters](https://github.com/vabxic/Leetcode/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/vabxic/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/vabxic/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0905-sort-array-by-parity](https://github.com/vabxic/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vabxic/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vabxic/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
