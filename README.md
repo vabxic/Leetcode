@@ -25,6 +25,7 @@ Solutions from my POV.
 | [0628-maximum-product-of-three-numbers](https://github.com/vabxic/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/vabxic/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vabxic/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0690-employee-importance](https://github.com/vabxic/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/vabxic/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/vabxic/Leetcode/tree/master/0733-flood-fill) |
@@ -252,6 +253,7 @@ Solutions from my POV.
 | [0208-implement-trie-prefix-tree](https://github.com/vabxic/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0491-non-decreasing-subsequences](https://github.com/vabxic/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/vabxic/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0690-employee-importance](https://github.com/vabxic/Leetcode/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/vabxic/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vabxic/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -477,6 +479,7 @@ Solutions from my POV.
 | [0669-trim-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/vabxic/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/vabxic/Leetcode/tree/master/0690-employee-importance) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vabxic/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vabxic/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -552,6 +555,7 @@ Solutions from my POV.
 | [0669-trim-a-binary-search-tree](https://github.com/vabxic/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/vabxic/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/vabxic/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vabxic/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vabxic/Leetcode/tree/master/0743-network-delay-time) |
@@ -607,6 +611,7 @@ Solutions from my POV.
 | [0623-add-one-row-to-tree](https://github.com/vabxic/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/vabxic/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vabxic/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vabxic/Leetcode/tree/master/0743-network-delay-time) |
