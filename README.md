@@ -79,6 +79,7 @@ Solutions from my POV.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vabxic/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vabxic/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/vabxic/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3102-minimize-manhattan-distances](https://github.com/vabxic/Leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/vabxic/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/vabxic/Leetcode/tree/master/3164-find-the-number-of-good-pairs-ii) |
@@ -240,6 +241,7 @@ Solutions from my POV.
 | [2079-watering-plants](https://github.com/vabxic/Leetcode/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/vabxic/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/vabxic/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3271-hash-divided-string](https://github.com/vabxic/Leetcode/tree/master/3271-hash-divided-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
