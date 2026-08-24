@@ -22,6 +22,7 @@ Solutions from my POV.
 | [0216-combination-sum-iii](https://github.com/vabxic/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0475-heaters](https://github.com/vabxic/Leetcode/tree/master/0475-heaters) |
 | [0491-non-decreasing-subsequences](https://github.com/vabxic/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0605-can-place-flowers](https://github.com/vabxic/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vabxic/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/vabxic/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vabxic/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -405,6 +406,7 @@ Solutions from my POV.
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/vabxic/Leetcode/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/vabxic/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vabxic/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/vabxic/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
