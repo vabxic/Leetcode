@@ -268,6 +268,7 @@ Solutions from my POV.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vabxic/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vabxic/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/vabxic/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1169-invalid-transactions](https://github.com/vabxic/Leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -361,6 +362,7 @@ Solutions from my POV.
 | [0858-mirror-reflection](https://github.com/vabxic/Leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/vabxic/Leetcode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/vabxic/Leetcode/tree/master/0877-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1175-prime-arrangements](https://github.com/vabxic/Leetcode/tree/master/1175-prime-arrangements) |
 | [1390-four-divisors](https://github.com/vabxic/Leetcode/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/vabxic/Leetcode/tree/master/1492-the-kth-factor-of-n) |
@@ -986,4 +988,8 @@ Solutions from my POV.
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
