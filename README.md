@@ -245,6 +245,7 @@ Solutions from my POV.
 | [1535-find-the-winner-of-an-array-game](https://github.com/vabxic/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2079-watering-plants](https://github.com/vabxic/Leetcode/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/vabxic/Leetcode/tree/master/2105-watering-plants-ii) |
+| [2169-count-operations-to-obtain-zero](https://github.com/vabxic/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vabxic/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3271-hash-divided-string](https://github.com/vabxic/Leetcode/tree/master/3271-hash-divided-string) |
@@ -370,6 +371,7 @@ Solutions from my POV.
 | [1819-number-of-different-subsequences-gcds](https://github.com/vabxic/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vabxic/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/vabxic/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2169-count-operations-to-obtain-zero](https://github.com/vabxic/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2544-alternating-digit-sum](https://github.com/vabxic/Leetcode/tree/master/2544-alternating-digit-sum) |
