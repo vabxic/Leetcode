@@ -74,6 +74,7 @@ Solutions from my POV.
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/vabxic/Leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vabxic/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vabxic/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/vabxic/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/vabxic/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -279,6 +280,7 @@ Solutions from my POV.
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vabxic/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vabxic/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vabxic/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vabxic/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -367,6 +369,7 @@ Solutions from my POV.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vabxic/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/vabxic/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2544-alternating-digit-sum](https://github.com/vabxic/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vabxic/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -395,6 +398,7 @@ Solutions from my POV.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vabxic/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/vabxic/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vabxic/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -951,4 +955,28 @@ Solutions from my POV.
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vabxic/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/vabxic/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Sieve Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
