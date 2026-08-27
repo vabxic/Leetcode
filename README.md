@@ -58,6 +58,7 @@ Solutions from my POV.
 | [1631-path-with-minimum-effort](https://github.com/vabxic/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vabxic/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vabxic/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/vabxic/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/vabxic/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -121,6 +122,7 @@ Solutions from my POV.
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vabxic/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vabxic/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1631-path-with-minimum-effort](https://github.com/vabxic/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/vabxic/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/vabxic/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
