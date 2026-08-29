@@ -36,6 +36,7 @@ Solutions from my POV.
 | [0871-minimum-number-of-refueling-stops](https://github.com/vabxic/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/vabxic/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/vabxic/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0989-add-to-array-form-of-integer](https://github.com/vabxic/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vabxic/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/vabxic/Leetcode/tree/master/0994-rotting-oranges) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vabxic/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -364,6 +365,7 @@ Solutions from my POV.
 | [0858-mirror-reflection](https://github.com/vabxic/Leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/vabxic/Leetcode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/vabxic/Leetcode/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/vabxic/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1175-prime-arrangements](https://github.com/vabxic/Leetcode/tree/master/1175-prime-arrangements) |
 | [1390-four-divisors](https://github.com/vabxic/Leetcode/tree/master/1390-four-divisors) |
