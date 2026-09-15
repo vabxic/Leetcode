@@ -39,6 +39,7 @@ Solutions from my POV.
 | [0989-add-to-array-form-of-integer](https://github.com/vabxic/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vabxic/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/vabxic/Leetcode/tree/master/0994-rotting-oranges) |
+| [0999-available-captures-for-rook](https://github.com/vabxic/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vabxic/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vabxic/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-two-city-scheduling](https://github.com/vabxic/Leetcode/tree/master/1029-two-city-scheduling) |
@@ -246,6 +247,7 @@ Solutions from my POV.
 ## Simulation
 |  |
 | ------- |
+| [0999-available-captures-for-rook](https://github.com/vabxic/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1094-car-pooling](https://github.com/vabxic/Leetcode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/vabxic/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/vabxic/Leetcode/tree/master/1518-water-bottles) |
@@ -819,6 +821,7 @@ Solutions from my POV.
 | [0695-max-area-of-island](https://github.com/vabxic/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vabxic/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vabxic/Leetcode/tree/master/0994-rotting-oranges) |
+| [0999-available-captures-for-rook](https://github.com/vabxic/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/vabxic/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/vabxic/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/vabxic/Leetcode/tree/master/1631-path-with-minimum-effort) |
