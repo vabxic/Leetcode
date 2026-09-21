@@ -83,6 +83,7 @@ Solutions from my POV.
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/vabxic/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/vabxic/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/vabxic/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vabxic/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
@@ -166,6 +167,7 @@ Solutions from my POV.
 | [2563-count-the-number-of-fair-pairs](https://github.com/vabxic/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vabxic/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2592-maximize-greatness-of-an-array](https://github.com/vabxic/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/vabxic/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vabxic/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -257,6 +259,7 @@ Solutions from my POV.
 | [2079-watering-plants](https://github.com/vabxic/Leetcode/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/vabxic/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2169-count-operations-to-obtain-zero](https://github.com/vabxic/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/vabxic/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vabxic/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3271-hash-divided-string](https://github.com/vabxic/Leetcode/tree/master/3271-hash-divided-string) |
@@ -296,6 +299,7 @@ Solutions from my POV.
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vabxic/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vabxic/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/vabxic/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/vabxic/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2947-count-beautiful-substrings-i](https://github.com/vabxic/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vabxic/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vabxic/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -361,6 +365,7 @@ Solutions from my POV.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vabxic/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/vabxic/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vabxic/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/vabxic/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2974-minimum-number-game](https://github.com/vabxic/Leetcode/tree/master/2974-minimum-number-game) |
 ## Math
 |  |
