@@ -1,9 +1,23 @@
 class Solution {
 public:
-    int sumRootToLeaf(TreeNode* root, int val = 0) {
-        if (!root) return 0;
-        val = (val<<1) | root->val;
-        int sum = sumRootToLeaf(root->left, val) + sumRootToLeaf(root->right, val);
-        return (val & -!sum) | sum;
+    int ans = 0;
+
+    void dfs(TreeNode* root, int curr) {
+        if (!root) return;
+
+        curr = curr * 2 + root->val;
+
+        if (!root->left && !root->right) {
+            ans += curr;
+            return;
+        }
+
+        dfs(root->left, curr);
+        dfs(root->right, curr);
+    }
+
+    int sumRootToLeaf(TreeNode* root) {
+        dfs(root, 0);
+        return ans;
     }
 };
