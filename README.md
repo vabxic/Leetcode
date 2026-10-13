@@ -99,6 +99,7 @@ Solutions from my POV.
 | [3625-count-number-of-trapezoids-ii](https://github.com/vabxic/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/vabxic/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vabxic/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vabxic/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vabxic/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -178,6 +179,7 @@ Solutions from my POV.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vabxic/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vabxic/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/vabxic/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vabxic/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vabxic/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -464,6 +466,7 @@ Solutions from my POV.
 | [2592-maximize-greatness-of-an-array](https://github.com/vabxic/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vabxic/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/vabxic/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vabxic/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Game Theory
 |  |
 | ------- |
