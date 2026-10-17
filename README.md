@@ -95,6 +95,7 @@ Solutions from my POV.
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/vabxic/Leetcode/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/vabxic/Leetcode/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3527-find-the-most-common-response](https://github.com/vabxic/Leetcode/tree/master/3527-find-the-most-common-response) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vabxic/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3618-split-array-by-prime-indices](https://github.com/vabxic/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/vabxic/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/vabxic/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -178,6 +179,7 @@ Solutions from my POV.
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/vabxic/Leetcode/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vabxic/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vabxic/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vabxic/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/vabxic/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vabxic/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
@@ -319,6 +321,7 @@ Solutions from my POV.
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/vabxic/Leetcode/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3527-find-the-most-common-response](https://github.com/vabxic/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vabxic/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vabxic/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/vabxic/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3731-find-missing-elements](https://github.com/vabxic/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vabxic/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
