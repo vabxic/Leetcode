@@ -74,6 +74,7 @@ Solutions from my POV.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vabxic/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/vabxic/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2079-watering-plants](https://github.com/vabxic/Leetcode/tree/master/2079-watering-plants) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vabxic/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vabxic/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2105-watering-plants-ii](https://github.com/vabxic/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/vabxic/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -133,6 +134,7 @@ Solutions from my POV.
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vabxic/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1631-path-with-minimum-effort](https://github.com/vabxic/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/vabxic/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vabxic/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/vabxic/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vabxic/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/vabxic/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -164,6 +166,7 @@ Solutions from my POV.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vabxic/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vabxic/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/vabxic/Leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vabxic/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vabxic/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/vabxic/Leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vabxic/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
